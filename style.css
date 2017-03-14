@@ -1,0 +1,43 @@
+
+body{
+	margin: 100px;
+	font-family: Arvo, Serif;
+}
+
+
+
+ hr{height: 5px;
+background-color:  #107332;}
+
+
+
+ h1{ 
+	font-family: Abril Fatface, Serif; 
+ 	font-size: 60px;
+ }
+
+
+
+h2{font-family: Oswald, sans-serif;
+ 	
+
+}
+
+
+
+// h1, h2{color: #B4CFFF;}
+
+.fa{color: #107332;}
+
+
+
+
+ ul {
+     list-style: none;
+
+ }
+
+
+
+
+
